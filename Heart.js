@@ -193,7 +193,7 @@ async function Telesticker(url) {
             data2 = await axios(`https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=${fileId}`)
             result = {
             status: 200,
-            author: '★𝐀𝐍𝐉𝐀𝐍-𝐗𝐃★',
+            author: '𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪',
             url: "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + data2.data.result.file_path
             }
             mariayresult.push(result)
@@ -235,7 +235,7 @@ async function Telesticker(url) {
         }
         
         if (autobio) {
-            Maria.updateProfileStatus(`Hey, i am anjan-xd multi-device whatsapp bot 🚀 ${runtime(process.uptime())} `).catch(_ => _)
+            Maria.updateProfileStatus(`Hey, i am 𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 multi-device whatsapp bot 🚀 ${runtime(process.uptime())} `).catch(_ => _)
         }
         if (m.sender.startsWith('212') && global.anti212 === true) {
             return Maria.updateBlockStatus(m.sender, 'block')
@@ -784,7 +784,7 @@ case 'tag': case 'tagall': case 'all':{
 
  if (!m.isGroup) return replay(mess.grouponly)
  if (!isAdmins && !isCreator) return replay(mess.useradmin)
- let teks = `🧩𝗧𝗮𝗴𝗮𝗹𝗹🧩
+ let teks = `❌𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪❌
   
  *Message : ${args.join(" ") ? args.join(" ") : 'no message'}*\n\n`
  for (let mem of participants) {
@@ -873,7 +873,7 @@ let repoInfo = await axios.get("https://api.github.com/repos/Mranjan101/Mr-anjan
   *📁 Repo Size:* ${(repo.size/1024).toFixed(2)} MB\n
   *📅 Last Updated:* ${repo.updated_at}\n
  
- *©★𝐀𝐍𝐉𝐀𝐍-𝐗𝐃★*`
+ *𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪*`
 
         Maria.sendMessage(from, { video: { url: 'https://media.tenor.com/Zco-fadJri4AAAPo/code-matrix.mp4' }, gifPlayback: true, caption: scritxt }, { quoted: m })
 }
@@ -1151,7 +1151,7 @@ break
             break
 
 case 'play':  case 'gan': {
-Maria.sendMessage(from, { react: { text: "✨️", key: m.key }}) 
+Maria.sendMessage(from, { react: { text: "🫶", key: m.key }}) 
 if (!text) return reply(`Example : ${prefix + command} anime whatsapp status`)
 const Ayushplaymp3 = require('./Gallery/lib/ytdl2')
 let yts = require("youtube-yts")
@@ -1261,7 +1261,7 @@ Maria.sendMessage(from, { react: { text: "🤖", key: m.key }})
       case 'hii': case 'hi': case 'Hi':
        
         
-        let txxt = `👋🏻 Hi *${pushname}*, i am  *𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪*📍\nA whatsapp bot created by: 𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 \n\n I don't have time for chit-chat Darling. Use command from *${prefix}help* list if you want me to do anything.`
+        let txxt = `👋🏻 Hi *${pushname}*, i am  *𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪*📍\nA whatsapp bot created by: 𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 https://Wa.me/+918536881026/?text=𓆩‎✘À𝖑è𝖝_𝕻ì𝖐ù✘𓆪_BABU🥺🫂✨\n\n I don't have time for chit-chat Darling. Use command from *${prefix}help* list if you want me to do anything.`
 
         Maria.sendMessage(m.chat, { image: { url: "./Gallery/ch1.jpg" }, caption: txxt, gifPlayback: true }, { quoted: m });
         break
@@ -1967,7 +1967,7 @@ case 'hidetag': {
                 if (!isAdmins && !isCreator) return reply(mess.admin)
                 if (!isBotAdmins) return reply(mess.botAdmin)
  if (!text) return replay(`🧩*Please quote or write a meaningful message to tag admins to*`)
- let teks = `*🧩𝗚𝗿𝗼𝘂𝗽 𝗔𝗱𝗺𝗶𝗻𝘀🧩*
+ let teks = `*😛𝗚𝗿𝗼𝘂𝗽 𝗔𝗱𝗺𝗶𝗻𝘀😛*
   
  *Message : ${text}*\n\n`
  for (let mem of groupAdmins) {
