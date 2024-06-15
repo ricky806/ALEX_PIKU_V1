@@ -99,7 +99,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
-## `For Termux/Ssh/Ubuntu`
+## `Termux/Ssh/Ubuntu`
 
 ```bash
 
@@ -125,9 +125,9 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/AYUSH-PANDEY023/Maria-Md
+git clone https://github.com/Piku090909/Maria-md01
 
-cd Maria-Md
+cd Maria-md01
 
 rm -rf session
 
@@ -149,13 +149,7 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
  <h2 align="center"> 🔖Thanks to
 </h2>
 
-1. **Teamolduser**
-   - GitHub: [@Teamolduser](https://github.com/Teamolduser)
-
-2. **PikaBotz**
-   - GitHub: [@PikaBotz](https://github.com/PikaBotz)
-
-3. **DGXeon**
-   - GitHub: [@DGXeon](https://github.com/DGXeon)
+𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪
+https://github.com/piku090909
 
 Feel free to contribute and make this project even more awesome! 🌟
