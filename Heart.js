@@ -1261,7 +1261,7 @@ Maria.sendMessage(from, { react: { text: "🤖", key: m.key }})
       case 'hii': case 'hi': case 'Hi':
        
         
-        let txxt = `👋🏻 Hi *${pushname}*, i am  *★𝐀𝐍𝐉𝐀𝐍-𝐗𝐃★*📍\nA whatsapp bot created by: Anjan \n\n I don't have time for chit-chat Darling. Use command from *${prefix}help* list if you want me to do anything.`
+        let txxt = `👋🏻 Hi *${pushname}*, i am  *𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪*📍\nA whatsapp bot created by: 𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 \n\n I don't have time for chit-chat Darling. Use command from *${prefix}help* list if you want me to do anything.`
 
         Maria.sendMessage(m.chat, { image: { url: "./Gallery/ch1.jpg" }, caption: txxt, gifPlayback: true }, { quoted: m });
         break
