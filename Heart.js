@@ -23,7 +23,7 @@ let afk = require("./Gallery/lib/afk");
 const { fetchBuffer, buffergif } = require("./Gallery/lib/myfunc2")
 
 /////log
-global.modnumber = '919883457657' 
+global.modnumber = '918536881026' 
 //Gallery/database
 let ntilinkall =JSON.parse(fs.readFileSync('./Gallery/database/antilink.json'));
 const isnsfw = JSON.parse(fs.readFileSync('./Gallery/database/nsfw.json'));
@@ -865,8 +865,8 @@ let repoInfo = await axios.get("https://api.github.com/repos/Mranjan101/Mr-anjan
         let repo = repoInfo.data;
         console.log(repo);
 
-   const scritxt = `*🚀Anjan-xd-script🚀*\n
-  *🌟Creator:* ANJAN-SER\n
+   const scritxt = `*🚀𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪-script🚀*\n
+  *🌟Creator:* 𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪\n
   *🌟 Repo:* ${repo.html_url}\n
   *🌟 Total Forks:* ${repo.forks_count}\n
   *⭐ Total Stars:* ${repo.stargazers_count}\n
@@ -994,7 +994,7 @@ break
                 Maria.sendMessage(m.chat, {
                     document: audio,
                     mimetype: 'audio/mp3',
-                    fileName: `Anjan-Xd.mp3`
+                    fileName: `𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪.mp3`
                 }, {
                     quoted: m
                 })
@@ -1158,7 +1158,7 @@ let yts = require("youtube-yts")
         let search = await yts(text)
         let anup3k = search.videos[0]
 const pl= await Ayushplaymp3.mp3(anup3k.url);
-reply('```🎉𝚫𝚴𝐉𝚫𝚴 𝚾𝐃  𝐒𝚵𝚴𝐃𝚰𝚴𝐆 𝐒𝚯𝚴𝐆.....🎉```');
+reply('```𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  𝐒𝚵𝚴𝐃𝚰𝚴𝐆 𝐒𝚯𝚴𝐆.....🎉```');
 await Maria.sendMessage(m.chat,{
     audio: fs.readFileSync(pl.path),
     fileName: anup3k.title + '.mp3',
@@ -1278,9 +1278,9 @@ https://chat.whatsapp.com/KLNTBqPjqCW5Pa8vCzcXBw`
 
       case "info":
             Maria.sendMessage(from, { react: { text: "ℹ️", key: m.key }}) 
-        let ifx = `🌟『𝚫𝚴𝐉𝚫𝚴 𝚾𝐃』🌟
+        let ifx = `🌟『𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪』🌟
 *🌟Description:* A WhatsApp Bot With Rich  feature
-*👤Creator:*  𝑨njan
+*👤Creator:*  𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪
 *🕸Version:* 1.2.0
 *🚦Uptime:* ${runtime(process.uptime())}\n
 *Powered by Anjan*`
@@ -1298,7 +1298,7 @@ Maria.sendMessage(m.chat, { image: { url: "./Gallery/ch3.jpg" }, caption: ifx, g
 ///////////////////////////////////////////////////
 case 'google': {
 Maria.sendMessage(from, { react: { text: "🔎", key: m.key }}) 
-if (!q) return reply(`Example : ${prefix + command} 𝘈njan`)
+if (!q) return reply(`Example : ${prefix + command} 𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪`)
 let google = require('google-it')
 google({'query': text}).then(res => {
 let teks = `「🏮 *Google Search Engine*🏮」 \n\n
@@ -1565,7 +1565,7 @@ case 'truth':
                            break
                            
   case 'menu': case 'help': case 'h': 
-  const txt = `╭─「 *𝚫𝚴𝐉𝚫𝚴 𝚾𝐃* 」
+  const txt = `╭─「 *𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪* 」
 │⋊ 𝕌𝕤𝕖𝕣: ${pushname} 
 │⋊ 𝔹𝕠𝕥:  ${botname}
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩:  *${prefix}*
@@ -2228,9 +2228,9 @@ https://chat.whatsapp.com/${response}
 case 'developer':
 case 'dev':
     const devmod = `  🍥 *Moderators* 🍥\n\n
-*🎫Anjan xd* @919883457657
+*🎫𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪* @918536881026
  \n
-\n📛*Don't Spam them to avoid Blocking !*\n\n For any help, type *${prefix}support* and ask in the group.\n\n*✨️Thanks for using Anjan-xd* `;
+\n📛*Don't Spam them to avoid Blocking !*\n\n For any help, type *${prefix}support* and ask in the group.\n\n*✨️Thanks for using 𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪* `;
 
     Maria.sendMessage(m.chat, { text: devmod, mentions: ["919883457657@s.whatsapp.net"] }, { quoted: m });
     break;
