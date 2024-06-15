@@ -1539,7 +1539,7 @@ case 'truth':
                  "Mention the incident that makes you hurt that you still remember",
                  "what achievements have you got this year?",
                  "what was your worst habit at school?",
-                 "do you love the bot creator Ayush?",
+                 "do you love the bot creator Anjan?",
                  "have you ever thought of taking revenge from ur teacher?",
                  "do you like current prime minister of ur country",
                  "you non veg or veg",
@@ -1577,130 +1577,129 @@ case 'truth':
 │⋊ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞: ${os.platform()} 
 │⋊ ℝ𝕦𝕟𝕥𝕚𝕞𝕖: ${runtime(process.uptime())}
 │⋊ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
-╰────────────┈平和
-Here's the list of my Commands.🔖
+╰────────────┈
 ${readmore}
-┌──⊰ _*🧧GENERAL🧧*_
-│⊳ 🌿 ${prefix}hi
-│⊳ 🌿 ${prefix}dev
-│⊳ 🌿 ${prefix}info
-│⊳ 🌿 ${prefix}support
-│⊳ 🌿 ${prefix}rules
-│⊳ 🌿 ${prefix}help
-│⊳ 🌿 ${prefix}runtime
-│⊳ 🌿 ${prefix}ping
-│⊳ 🌿 ${prefix}owner
-│⊳ 🌿 ${prefix}script
+┌──⊰ _*GENERAL*_
+│⊳  ${prefix}hi
+│⊳  ${prefix}dev
+│⊳  ${prefix}info
+│⊳  ${prefix}support
+│⊳  ${prefix}rules
+│⊳  ${prefix}help
+│⊳  ${prefix}runtime
+│⊳  ${prefix}ping
+│⊳  ${prefix}owner
+│⊳  ${prefix}script
 └──────────⊰
 
-┌──⊰ _*🧩OWNER🧩*_
-│⊳ ♠️ ${prefix}session
-│⊳ ♠️ ${prefix}join
-│⊳ ♠️ ${prefix}mode *[self/public]*
-│⊳ ♠️ ${prefix}shutdown
-│⊳ ♠️ ${prefix}restart
-│⊳ ♠️ ${prefix}autoread *[option]*
-│⊳ ♠️ ${prefix}autotyping *[option]*
-│⊳ ♠️ ${prefix}autorecording *[option]*
-│⊳ ♠️ ${prefix}autorecordtyp *[option]*
-│⊳ ♠️ ${prefix}autobio *[option]*
-│⊳ ♠️ ${prefix}autoswview *[option]*
-│⊳ ♠️ ${prefix}setppbot
-│⊳ ♠️ ${prefix}block
-│⊳ ♠️ ${prefix}unblock
-│⊳ ♠️ ${prefix}backup
-│⊳ ♠️ ${prefix}getcase
-│⊳ ♠️ ${prefix}creategc
+┌──⊰ _*OWNER*_
+│⊳  ${prefix}session
+│⊳  ${prefix}join
+│⊳  ${prefix}mode *[self/public]*
+│⊳  ${prefix}shutdown
+│⊳  ${prefix}restart
+│⊳  ${prefix}autoread *[option]*
+│⊳  ${prefix}autotyping *[option]*
+│⊳  ${prefix}autorecording *[option]*
+│⊳  ${prefix}autorecordtyp *[option]*
+│⊳  ${prefix}autobio *[option]*
+│⊳  ${prefix}autoswview *[option]*
+│⊳  ${prefix}setppbot
+│⊳  ${prefix}block
+│⊳  ${prefix}unblock
+│⊳  ${prefix}backup
+│⊳  ${prefix}getcase
+│⊳  ${prefix}creategc
 └──────────⊰
 
-┌──⊰ _*👮🏻‍♂️GROUP👮🏻‍♂️*_
-│⊳ 🍁 ${prefix}antilink
-│⊳ 🍁 ${prefix}closetime
-│⊳ 🍁 ${prefix}opentime
-│⊳ 🍁 ${prefix}kick
-│⊳ 🍁 ${prefix}promote
-│⊳ 🍁 ${prefix}demote
-│⊳ 🍁 ${prefix}setdesc
-│⊳ 🍁 ${prefix}setppgc
-│⊳ 🍁 ${prefix}tagall
-│⊳ 🍁 ${prefix}hidetag
-│⊳ 🍁 ${prefix}totag
-│⊳ 🍁 ${prefix}group *[option]*
-│⊳ 🍁 ${prefix}editinfo
-│⊳ 🍁 ${prefix}gclink
-│⊳ 🍁 ${prefix}revoke
-│⊳ 🍁 ${prefix}listonline
+┌──⊰ _*GROUP*_
+│⊳  ${prefix}antilink
+│⊳  ${prefix}closetime
+│⊳  ${prefix}opentime
+│⊳  ${prefix}kick
+│⊳  ${prefix}promote
+│⊳  ${prefix}demote
+│⊳  ${prefix}setdesc
+│⊳  ${prefix}setppgc
+│⊳  ${prefix}tagall
+│⊳  ${prefix}hidetag
+│⊳  ${prefix}totag
+│⊳  ${prefix}group *[option]*
+│⊳  ${prefix}editinfo
+│⊳  ${prefix}gclink
+│⊳  ${prefix}revoke
+│⊳  ${prefix}listonline
 └──────────⊰
 
-┌──⊰ _*🎉FUN🎉*_
-│⊳🎟️ ${prefix}truth
-│⊳🎟️ ${prefix}dare
-│⊳🎟️ ${prefix}couple 
-│⊳🎟️ ${prefix}checkdeath
-│⊳🎟️ ${prefix}uglycheck
-│⊳🎟️ ${prefix}lovelycheck
-│⊳🎟️ ${prefix}prettycheck
-│⊳🎟️ ${prefix}hornycheck
-│⊳🎟️ ${prefix}lesbiancheck
-│⊳🎟️ ${prefix}lesbicheck
-│⊳🎟️ ${prefix}lesbiancheck
-│⊳🎟️ ${prefix}cutecheck
-│⊳🎟️ ${prefix}gaycheck
-│⊳🎟️ ${prefix}greatcheck
-│⊳🎟️ ${prefix}awesomecheck 
+┌──⊰ _*FUN*_
+│⊳ ${prefix}truth
+│⊳ ${prefix}dare
+│⊳ ${prefix}couple 
+│⊳ ${prefix}checkdeath
+│⊳ ${prefix}uglycheck
+│⊳ ${prefix}lovelycheck
+│⊳ ${prefix}prettycheck
+│⊳ ${prefix}hornycheck
+│⊳ ${prefix}lesbiancheck
+│⊳ ${prefix}lesbicheck
+│⊳ ${prefix}lesbiancheck
+│⊳ ${prefix}cutecheck
+│⊳ ${prefix}gaycheck
+│⊳ ${prefix}greatcheck
+│⊳ ${prefix}awesomecheck 
 └──────────⊰
-┌──⊰ _*📂download📂*_
-│⊳ 📥 ${prefix}play
-│⊳ 📥 ${prefix}ytmp3
-│⊳ 📥 ${prefix}ytmp4
-│⊳ 📥 ${prefix}igimage 
-│⊳ 📥 ${prefix}igvideo 
-│⊳ 📥 ${prefix}gitclone
-│⊳ 📥 ${prefix}pinterest
-│⊳ 📥 ${prefix}apk
+┌──⊰ _*download*_
+│⊳  ${prefix}play
+│⊳  ${prefix}ytmp3
+│⊳  ${prefix}ytmp4
+│⊳  ${prefix}igimage 
+│⊳  ${prefix}igvideo 
+│⊳  ${prefix}gitclone
+│⊳  ${prefix}pinterest
+│⊳  ${prefix}apk
 └──────────⊰
-┌──⊰ _*🎐SnapBlend🎐*_
-│⊳🎀 ${prefix}shadow
-│⊳🎀 ${prefix}write
-│⊳🎀 ${prefix}smoke
-│⊳🎀 ${prefix}burnpaper
-│⊳🎀 ${prefix}romantic
-│⊳🎀 ${prefix}writeart
-│⊳🎀 ${prefix}rainboweffect
-│⊳🎀 ${prefix}smokyneon
-│⊳🎀 ${prefix}underwaterocean
-│⊳🎀 ${prefix}coffecup
-│⊳🎀 ${prefix}doublelove
-│⊳🎀 ${prefix}undergrass
-│⊳🎀 ${prefix}love
-│⊳🎀 ${prefix}narutobanner
-│⊳🎀 ${prefix}shinetext
+┌──⊰ _*SnapBlend*_
+│⊳ ${prefix}shadow
+│⊳ ${prefix}write
+│⊳ ${prefix}smoke
+│⊳ ${prefix}burnpaper
+│⊳ ${prefix}romantic
+│⊳ ${prefix}writeart
+│⊳ ${prefix}rainboweffect
+│⊳ ${prefix}smokyneon
+│⊳ ${prefix}underwaterocean
+│⊳ ${prefix}coffecup
+│⊳ ${prefix}doublelove
+│⊳ ${prefix}undergrass
+│⊳ ${prefix}love
+│⊳ ${prefix}narutobanner
+│⊳ ${prefix}shinetext
 └──────────⊰
-┌──⊰ _*⛩️OTHERS⛩️*_
-│⊳ 🏮 ${prefix}sticker
-│⊳ 🏮 ${prefix}qc
-│⊳ 🏮 ${prefix}smeme
-│⊳ 🏮 ${prefix}take
-│⊳ 🏮 ${prefix}toimage
-│⊳ 🏮 ${prefix}tovideo
-│⊳ 🏮 ${prefix}toaudio
-│⊳ 🏮 ${prefix}tomp3
-│⊳ 🏮 ${prefix}tovn
-│⊳ 🏮 ${prefix}togif
-│⊳ 🏮 ${prefix}tourl
-│⊳ 🏮 ${prefix}toqr
-│⊳ 🏮 ${prefix}toviewonce
-│⊳ 🏮 ${prefix}fliptext
-│⊳ 🏮 ${prefix}emojimix
-│⊳ 🏮 ${prefix}circlevideo
-│⊳ 🏮 ${prefix}google
-│⊳ 🏮 ${prefix}pinterest
-│⊳ 🏮 ${prefix}dalle
-│⊳ 🏮 ${prefix}gpt
+┌──⊰ _*OTHERS*_
+│⊳  ${prefix}sticker
+│⊳  ${prefix}qc
+│⊳  ${prefix}smeme
+│⊳  ${prefix}take
+│⊳  ${prefix}toimage
+│⊳  ${prefix}tovideo
+│⊳  ${prefix}toaudio
+│⊳  ${prefix}tomp3
+│⊳  ${prefix}tovn
+│⊳  ${prefix}togif
+│⊳  ${prefix}tourl
+│⊳  ${prefix}toqr
+│⊳  ${prefix}toviewonce
+│⊳  ${prefix}fliptext
+│⊳  ${prefix}emojimix
+│⊳  ${prefix}circlevideo
+│⊳  ${prefix}google
+│⊳  ${prefix}pinterest
+│⊳  ${prefix}dalle
+│⊳  ${prefix}gpt
 └──────────⊰
-🍂 To enable NSFW (Admin only!), enter  *${prefix}nsfw* 
+🍂 *${prefix}nsfw* 
 
-🍂 Obtain the full list of NSFW commands by typing  *${prefix}nsfwmenu*`
+🍂 *${prefix}nsfwmenu*`
 
   if (randomImage) {
     Maria.sendMessage(from, { image: { url: randomImage }, caption: txt }, { quoted: m });
@@ -2221,7 +2220,7 @@ https://chat.whatsapp.com/${response}
         case 'test': case 'p': case 'ping': 
         let timestampe = speed()
         let latensie = speed() - timestampe
-         reply(`🧧Testing successfull, Bot is active\n\n📍*ping* ${latensie.toFixed(4)} miliseconds\n\n🎀Type ${prefix}help to display the menu`)
+         reply(`🎊Bot is active\n\n📍*pong* ${latensie.toFixed(4)} miliseconds\n\n✨️Type ${prefix}help`)
         break   
     
         
