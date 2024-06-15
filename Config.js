@@ -3,20 +3,20 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernumber = ['919883457657']
-global.ownername = "★𝐀𝐍𝐉𝐀𝐍-𝐗𝐃★"//owner name
-global.ytname = "YT: AnjanBotz.inc"
-global.socialm = "GitHub: OfficialAnjanv2"
+global.ownername = "𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪_✰"//owner name
+global.ytname = "YT: piku090909Botz.inc"
+global.socialm = "GitHub: piku090909"
 global.location = "Indian"
 
-global.botname = '★𝐀𝐍𝐉𝐀𝐍-𝐗𝐃★' //name of the bot
+global.botname = '𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪_✰' //name of the bot
 
 //sticker details
-global.stickername = '★𝐀𝐍𝐉𝐀𝐍-𝐗𝐃★'
+global.stickername = '𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = '★𝐀𝐍𝐉𝐀𝐍-𝐗𝐃★'
+global.author = '𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪_✰'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Anjan botz inc."
+global.wm = "piku090909 botz inc."
 
 //theme link
 global.link = ''
@@ -38,7 +38,7 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Anjan-xd  🎀*\n\n*🧩 Bot link:* \nhttps://github.com/Mranjan101/Mr-anjannewbot\n',
+    done: '*here you go!* \n\n*𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪_✰*\n\n*🧩 Bot link:* \nhttps://github.com/piku090909/piku090909bot\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
