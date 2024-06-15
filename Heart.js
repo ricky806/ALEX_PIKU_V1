@@ -1158,7 +1158,7 @@ let yts = require("youtube-yts")
         let search = await yts(text)
         let anup3k = search.videos[0]
 const pl= await Ayushplaymp3.mp3(anup3k.url);
-reply('```𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  𝐒𝚵𝚴𝐃𝚰𝚴𝐆 𝐒𝚯𝚴𝐆.....🎉```');
+reply('```💫𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  𝐒𝚵𝚴𝐃𝚰𝚴𝐆 𝐒𝚯𝚴𝐆.....💫```');
 await Maria.sendMessage(m.chat,{
     audio: fs.readFileSync(pl.path),
     fileName: anup3k.title + '.mp3',
@@ -1566,140 +1566,139 @@ case 'truth':
                            
   case 'menu': case 'help': case 'h': 
   const txt = `╭─「 *𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪* 」
-│⋊ 𝕌𝕤𝕖𝕣: ${pushname} 
-│⋊ 𝔹𝕠𝕥:  ${botname}
-│⋊ ℙ𝕣𝕖𝕗𝕚𝕩:  *${prefix}*
-│⋊ 𝔻𝕒𝕥𝕖: ${xdate}
-│⋊ 𝕋𝕚𝕞𝕖:  ${xtime}
-│⋊ 𝕆𝕨𝕟𝕖𝕣: ${ownername}
-│⋊ 𝕧𝕖𝕣𝕤𝕚𝕠𝕟: ${mver}
-│⋊ ℍ𝕠𝕤𝕥: ${os.hostname()}
-│⋊ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞: ${os.platform()} 
-│⋊ ℝ𝕦𝕟𝕥𝕚𝕞𝕖: ${runtime(process.uptime())}
-│⋊ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
+│ 𓆩‎✘ㄩ丂乇尺✘𓆪: ${pushname} 
+│ 𓆩‎✘乃のｲ✘𓆪:  ${botname}
+│ 𓆩‎✘卩乇尺千丨乂✘𓆪:  *${prefix}*
+│ 𓆩‎✘ᗪ卂ㄒ乇✘𓆪: ${xdate}
+│ 𓆩‎✘ㄒ丨爪乇✘𓆪:  ${xtime}
+│ 𓆩‎✘ㄖ山几乇尺✘𓆪: ${ownername}
+│ 𓆩‎✘ᐯ乇尺丂丨ㄖ几✘𓆪: ${mver}
+│ 𓆩‎✘卄ㄖ丂ㄒ✘𓆪: ${os.hostname()}
+│ 𓆩‎✘卩ㄥ卂ㄒ乇千ㄖ尺爪✘𓆪: ${os.platform()} 
+│ 𓆩‎✘尺ㄩ几ㄒ丨爪乇✘𓆪: ${runtime(process.uptime())}
+│ 𓆩‎✘ㄒㄖㄒ卂ㄥ匚爪ᗪ✘𓆪: ${mariafeature()}
 ╰────────────┈
 ${readmore}
 ┌──⊰ _*GENERAL*_
-│⊳  ${prefix}hi
-│⊳  ${prefix}dev
-│⊳  ${prefix}info
-│⊳  ${prefix}support
-│⊳  ${prefix}rules
-│⊳  ${prefix}help
-│⊳  ${prefix}runtime
-│⊳  ${prefix}ping
-│⊳  ${prefix}owner
-│⊳  ${prefix}script
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℍ𝕀࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔻𝔼𝕍࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕀ℕ𝔽𝕆࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊𝕌ℙℙ𝕆ℝ𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℝ𝕌𝕃𝔼𝕊࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℍ𝔼𝕃ℙ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℝ𝕌ℕ𝕋𝕀𝕄𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℙ𝕀ℕ𝔾࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕆𝕎ℕ𝔼ℝ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊ℂℝ𝕀ℙ𝕋࿐
 └──────────⊰
 
 ┌──⊰ _*OWNER*_
-│⊳  ${prefix}session
-│⊳  ${prefix}join
-│⊳  ${prefix}mode *[self/public]*
-│⊳  ${prefix}shutdown
-│⊳  ${prefix}restart
-│⊳  ${prefix}autoread *[option]*
-│⊳  ${prefix}autotyping *[option]*
-│⊳  ${prefix}autorecording *[option]*
-│⊳  ${prefix}autorecordtyp *[option]*
-│⊳  ${prefix}autobio *[option]*
-│⊳  ${prefix}autoswview *[option]*
-│⊳  ${prefix}setppbot
-│⊳  ${prefix}block
-│⊳  ${prefix}unblock
-│⊳  ${prefix}backup
-│⊳  ${prefix}getcase
-│⊳  ${prefix}creategc
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊𝔼𝕊𝕊𝕀𝕆ℕ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕁𝕆𝕀ℕ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕄𝕆𝔻𝔼࿐ *[𝕊𝔼𝕃𝔽/ℙ𝕌𝔹𝕃𝕀ℂ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℝ𝔼𝕊𝕋𝔸ℝ𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸𝕌𝕋𝕆ℝ𝔼𝔸𝔻࿐ *[𝕆ℙ𝕋𝕀𝕆ℕ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸𝕌𝕋𝕆𝕋𝕐ℙ𝕀ℕ𝔾࿐ *[𝕆ℙ𝕋𝕀𝕆ℕ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸𝕌𝕋𝕆ℝ𝔼ℂ𝕆ℝ𝔻𝕀ℕ𝔾࿐ *[𝕆ℙ𝕋𝕀𝕆ℕ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸𝕌𝕋𝕆ℝ𝔼ℂ𝕆ℝ𝔻𝕋𝕐ℙ࿐ *[𝕆ℙ𝕋𝕀𝕆ℕ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸𝕌𝕋𝕆𝔹𝕀𝕆࿐ *[𝕆ℙ𝕋𝕀𝕆ℕ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸𝕌𝕋𝕆𝕊𝕎𝕍𝕀𝔼𝕎࿐ *[𝕆ℙ𝕋𝕀𝕆ℕ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊𝔼𝕋ℙℙ𝔹𝕆𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔹𝕃𝕆ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕌ℕ𝔹𝕃𝕆ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔹𝔸ℂ𝕂𝕌ℙ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔾𝔼𝕋ℂ𝔸𝕊𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℂℝ𝔼𝔸𝕋𝔼𝔾ℂ࿐
 └──────────⊰
 
 ┌──⊰ _*GROUP*_
-│⊳  ${prefix}antilink
-│⊳  ${prefix}closetime
-│⊳  ${prefix}opentime
-│⊳  ${prefix}kick
-│⊳  ${prefix}promote
-│⊳  ${prefix}demote
-│⊳  ${prefix}setdesc
-│⊳  ${prefix}setppgc
-│⊳  ${prefix}tagall
-│⊳  ${prefix}hidetag
-│⊳  ${prefix}totag
-│⊳  ${prefix}group *[option]*
-│⊳  ${prefix}editinfo
-│⊳  ${prefix}gclink
-│⊳  ${prefix}revoke
-│⊳  ${prefix}listonline
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸ℕ𝕋𝕀𝕃𝕀ℕ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℂ𝕃𝕆𝕊𝔼𝕋𝕀𝕄𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕆ℙ𝔼ℕ𝕋𝕀𝕄𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕂𝕀ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℙℝ𝕆𝕄𝕆𝕋𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔻𝔼𝕄𝕆𝕋𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊𝔼𝕋𝔻𝔼𝕊ℂ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊𝔼𝕋ℙℙ𝔾ℂ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝔸𝔾𝔸𝕃𝕃࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℍ𝕀𝔻𝔼𝕋𝔸𝔾࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝕋𝔸𝔾࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔾ℝ𝕆𝕌ℙ࿐ *[𝕆ℙ𝕋𝕀𝕆ℕ]*
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔼𝔻𝕀𝕋𝕀ℕ𝔽𝕆࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔾ℂ𝕃𝕀ℕ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℝ𝔼𝕍𝕆𝕂𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕃𝕀𝕊𝕋𝕆ℕ𝕃𝕀ℕ𝔼࿐
 └──────────⊰
 
 ┌──⊰ _*FUN*_
-│⊳ ${prefix}truth
-│⊳ ${prefix}dare
-│⊳ ${prefix}couple 
-│⊳ ${prefix}checkdeath
-│⊳ ${prefix}uglycheck
-│⊳ ${prefix}lovelycheck
-│⊳ ${prefix}prettycheck
-│⊳ ${prefix}hornycheck
-│⊳ ${prefix}lesbiancheck
-│⊳ ${prefix}lesbicheck
-│⊳ ${prefix}lesbiancheck
-│⊳ ${prefix}cutecheck
-│⊳ ${prefix}gaycheck
-│⊳ ${prefix}greatcheck
-│⊳ ${prefix}awesomecheck 
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕋ℝ𝕌𝕋ℍ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝔻𝔸ℝ𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℂ𝕆𝕌ℙ𝕃𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℂℍ𝔼ℂ𝕂𝔻𝔼𝔸𝕋ℍ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕌𝔾𝕃𝕐ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕃𝕆𝕍𝔼𝕃𝕐ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℙℝ𝔼𝕋𝕋𝕐ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℍ𝕆ℝℕ𝕐ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕃𝔼𝕊𝔹𝕀𝔸ℕℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕃𝔼𝕊𝔹𝕀ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕃𝔼𝕊𝔹𝕀𝔸ℕℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℂ𝕌𝕋𝔼ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝔾𝔸𝕐ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝔾ℝ𝔼𝔸𝕋ℂℍ𝔼ℂ𝕂࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝔸𝕎𝔼𝕊𝕆𝕄𝔼ℂℍ𝔼ℂ𝕂࿐
 └──────────⊰
 ┌──⊰ _*download*_
-│⊳  ${prefix}play
-│⊳  ${prefix}ytmp3
-│⊳  ${prefix}ytmp4
-│⊳  ${prefix}igimage 
-│⊳  ${prefix}igvideo 
-│⊳  ${prefix}gitclone
-│⊳  ${prefix}pinterest
-│⊳  ${prefix}apk
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℙ𝕃𝔸𝕐࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕐𝕋𝕄ℙ3࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ytmp4࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕀𝔾𝕀𝕄𝔸𝔾𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕀𝔾𝕍𝕀𝔻𝔼𝕆࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔾𝕀𝕋ℂ𝕃𝕆ℕ𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℙ𝕀ℕ𝕋𝔼ℝ𝔼𝕊𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔸ℙ𝕂࿐
 └──────────⊰
 ┌──⊰ _*SnapBlend*_
-│⊳ ${prefix}shadow
-│⊳ ${prefix}write
-│⊳ ${prefix}smoke
-│⊳ ${prefix}burnpaper
-│⊳ ${prefix}romantic
-│⊳ ${prefix}writeart
-│⊳ ${prefix}rainboweffect
-│⊳ ${prefix}smokyneon
-│⊳ ${prefix}underwaterocean
-│⊳ ${prefix}coffecup
-│⊳ ${prefix}doublelove
-│⊳ ${prefix}undergrass
-│⊳ ${prefix}love
-│⊳ ${prefix}narutobanner
-│⊳ ${prefix}shinetext
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕊ℍ𝔸𝔻𝕆𝕎࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕎ℝ𝕀𝕋𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕊𝕄𝕆𝕂𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝔹𝕌ℝℕℙ𝔸ℙ𝔼ℝ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℝ𝕆𝕄𝔸ℕ𝕋𝕀ℂ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕎ℝ𝕀𝕋𝔼𝔸ℝ𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℝ𝔸𝕀ℕ𝔹𝕆𝕎𝔼𝔽𝔽𝔼ℂ𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕊𝕄𝕆𝕂𝕐ℕ𝔼𝕆ℕ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕌ℕ𝔻𝔼ℝ𝕎𝔸𝕋𝔼ℝ𝕆ℂ𝔼𝔸ℕ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℂ𝕆𝔽𝔽𝔼ℂ𝕌ℙ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝔻𝕆𝕌𝔹𝕃𝔼𝕃𝕆𝕍𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕌ℕ𝔻𝔼ℝ𝔾ℝ𝔸𝕊𝕊࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕃𝕆𝕍𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★ℕ𝔸ℝ𝕌𝕋𝕆𝔹𝔸ℕℕ𝔼ℝ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 ${prefix}—͟͞͞★𝕊ℍ𝕀ℕ𝔼𝕋𝔼𝕏𝕋࿐
 └──────────⊰
 ┌──⊰ _*OTHERS*_
-│⊳  ${prefix}sticker
-│⊳  ${prefix}qc
-│⊳  ${prefix}smeme
-│⊳  ${prefix}take
-│⊳  ${prefix}toimage
-│⊳  ${prefix}tovideo
-│⊳  ${prefix}toaudio
-│⊳  ${prefix}tomp3
-│⊳  ${prefix}tovn
-│⊳  ${prefix}togif
-│⊳  ${prefix}tourl
-│⊳  ${prefix}toqr
-│⊳  ${prefix}toviewonce
-│⊳  ${prefix}fliptext
-│⊳  ${prefix}emojimix
-│⊳  ${prefix}circlevideo
-│⊳  ${prefix}google
-│⊳  ${prefix}pinterest
-│⊳  ${prefix}dalle
-│⊳  ${prefix}gpt
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊𝕋𝕀ℂ𝕂𝔼ℝ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℚℂ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕊𝕄𝔼𝕄𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝔸𝕂𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝕀𝕄𝔸𝔾𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝕍𝕀𝔻𝔼𝕆࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝔸𝕌𝔻𝕀𝕆࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝕄ℙ3࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝕍ℕ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝔾𝕀𝔽࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝕌ℝ𝕃࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆ℚℝ࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝕋𝕆𝕍𝕀𝔼𝕎𝕆ℕℂ𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔽𝕃𝕀ℙ𝕋𝔼𝕏𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔼𝕄𝕆𝕁𝕀𝕄𝕀𝕏࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℂ𝕀ℝℂ𝕃𝔼𝕍𝕀𝔻𝔼𝕆࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔾𝕆𝕆𝔾𝕃𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★ℙ𝕀ℕ𝕋𝔼ℝ𝔼𝕊𝕋࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔻𝔸𝕃𝕃𝔼࿐
+│𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪  ${prefix}—͟͞͞★𝔾ℙ𝕋࿐
 └──────────⊰
-🍂 *${prefix}nsfw* 
+𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 *${prefix}—͟͞͞★ℕ𝕊𝔽𝕎*࿐
 
-🍂 *${prefix}nsfwmenu*`
+𓆩‎✘À𝖑è𝖝 𝕻ì𝖐ù✘𓆪 *${prefix}—͟͞͞★ℕ𝕊𝔽𝕎𝕄𝔼ℕ𝕌*࿐
 
   if (randomImage) {
     Maria.sendMessage(from, { image: { url: randomImage }, caption: txt }, { quoted: m });
