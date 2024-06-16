@@ -26,9 +26,9 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/Piku090909/Maria-md0
+git clone https://github.com/ricky806/ALEX_PIKU_V1
 
-cd Maria-md0
+cd ALEX_PIKU_V1
 
 rm -rf session
 
