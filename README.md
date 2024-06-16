@@ -28,7 +28,7 @@ pkg install imagemagick -y
 
 git clone https://github.com/Piku090909/Maria-md0
 
-cd Maria-md01
+cd Maria-md0
 
 rm -rf session
 
