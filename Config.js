@@ -22,7 +22,7 @@ global.wm = "piku090909 botz inc."
 global.link = ''
 
 //custom prefix
-global.prefa = ['!']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.welcome = true //auto welcome
